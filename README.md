@@ -4,11 +4,13 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 ## String
 |  |
