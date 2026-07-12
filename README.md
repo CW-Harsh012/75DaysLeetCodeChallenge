@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
