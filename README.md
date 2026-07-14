@@ -7,6 +7,7 @@
 | [0046-permutations](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
@@ -15,6 +16,7 @@
 | [0046-permutations](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
