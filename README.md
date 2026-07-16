@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0007-reverse-integer](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
 | ------- |
@@ -72,4 +76,8 @@
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
