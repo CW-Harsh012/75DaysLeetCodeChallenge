@@ -73,6 +73,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Tree
 |  |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
