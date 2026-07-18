@@ -6,6 +6,7 @@
 | ------- |
 | [0046-permutations](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0386-lexicographical-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
