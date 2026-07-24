@@ -66,6 +66,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
