@@ -95,6 +95,7 @@
 | [0061-rotate-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0234-palindrome-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
