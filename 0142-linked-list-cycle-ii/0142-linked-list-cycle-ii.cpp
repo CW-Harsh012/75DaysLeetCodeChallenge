@@ -20,16 +20,25 @@ public:
              break;
 
         }
-        if(slow!=fast)
-        return NULL;
+        if(fast==NULL || fast->next==NULL)
+         return NULL ;
 
-        ListNode*p=head;
-        while(p!=slow)
-        {
-            p=p->next;
+         slow=head;
+         while(slow!=fast)
+         {
             slow=slow->next;
-        }
-        return p;
+            fast=fast->next;
+         }
+         return slow;
+        //  ListNode*temp=head;
+        //  while(temp!=slow)
+        //  {
+        //     temp=temp->next;
+        //     slow=slow->next;
+        //  }
+        //  return temp;
+
+        
 
 
     }
