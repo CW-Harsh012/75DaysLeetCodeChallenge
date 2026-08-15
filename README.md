@@ -27,6 +27,7 @@
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
