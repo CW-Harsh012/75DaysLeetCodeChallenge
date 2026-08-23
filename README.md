@@ -10,6 +10,7 @@
 | [0051-n-queens](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
+| [0739-daily-temperatures](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -141,6 +142,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
@@ -172,6 +174,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
