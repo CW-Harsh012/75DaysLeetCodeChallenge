@@ -30,6 +30,7 @@
 | [0344-reverse-string](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0739-daily-temperatures](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
