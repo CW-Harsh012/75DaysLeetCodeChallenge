@@ -27,6 +27,7 @@
 | [0022-generate-parentheses](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -42,6 +43,7 @@
 | [0048-rotate-image](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -142,6 +145,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
