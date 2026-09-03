@@ -12,6 +12,7 @@
 | [0229-majority-element-ii](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0739-daily-temperatures](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
 |  |
 | ------- |
