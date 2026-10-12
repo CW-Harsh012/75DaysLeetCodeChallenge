@@ -86,16 +86,19 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
 ## Queue
 |  |
@@ -189,4 +192,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
